@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: blue;
+}
+
+#myCanvas {
+    background-color: white;
+    visibility: visible;
+    border-width: 5px;
+    border-color: black;
+}
